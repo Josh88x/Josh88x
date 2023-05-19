@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Josh88x
-- 👀 I’m interested in Python, HTML, CSS, Javascript
-- 🌱 I’m currently learning Full Stack web development
+- 👀 I’m interested in HTML, CSS, Javascript, React, TailwindCss
+- 🌱 I’m currently learning Front-End Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me joshizbeast101@gmail.com
 
